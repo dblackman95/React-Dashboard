@@ -19,7 +19,7 @@ Check out the live demo [here](https://react-dashboard-gvcc.onrender.com).
 - **Formik and Yup**: For handling form submission and input validation.
 - **FullCalendar**: For integrating calendar components.
 
-====================================================================================================================================================================
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # Getting Started with Create React App
 
