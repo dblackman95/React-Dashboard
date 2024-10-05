@@ -1,3 +1,26 @@
+# React Admin Dashboard
+
+Welcome to this simple React Admin Dashboard! This application is built using React and provides an intuitive interface for managing various administrative tasks.
+
+## Features
+
+- **Analytics**: View interactive charts and statistics.
+- **Responsive Design**: Fully responsive layout for tablet and desktop devices.
+- **Theming**: Light and dark mode support.
+
+## Live Demo
+Check out the live demo [here](https://react-dashboard-gvcc.onrender.com).
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **React Router**: For navigation.
+- **Nivo**: For displaying charts and graphs.
+- **Formik and Yup**: For handling form submission and input validation.
+- **FullCalendar**: For integrating calendar components.
+
+====================================================================================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
